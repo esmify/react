@@ -4,6 +4,7 @@
   "scripts": {
     "version": "lerna exec npm version",
     "build": "lerna run build",
+    "prerelease": "npm run build",
     "release": "lerna publish --contents pkg"
   },
   "devDependencies": {
