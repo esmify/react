@@ -1,6 +1,6 @@
 {
   "name": "@esmify/react-dom",
-  "version": "16.8.7",
+  "version": "16.8.8",
   "description": "",
   "main": "src/index.js",
   "scripts": {
@@ -36,7 +36,7 @@
     "@esmify/react": "^16.0.0"
   },
   "devDependencies": {
-    "@esmify/react": "^16.8.7",
+    "@esmify/react": "^16.8.8",
     "@pika/pack": "^0.3.7",
     "@pika/plugin-build-node": "^0.3.15",
     "@pika/plugin-build-types": "^0.3.16",
