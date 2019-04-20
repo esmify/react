@@ -1,12 +1,15 @@
 {
   "name": "@esmify/react",
-  "version": "16.8.8",
+  "version": "16.8.9",
   "description": "",
   "main": "src/index.js",
   "scripts": {
     "build": "pack build"
   },
-  "keywords": ["esm", "react"],
+  "keywords": [
+    "esm",
+    "react"
+  ],
   "author": "Wei Zhu <yesmeck@gmail.com>",
   "license": "MIT",
   "@pika/pack": {
