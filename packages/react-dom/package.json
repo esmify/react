@@ -6,7 +6,7 @@
   "scripts": {
     "build": "pack build"
   },
-  "keywords": [],
+  "keywords": ["esm", "react"],
   "author": "Wei Zhu <yesmeck@gmail.com>",
   "license": "MIT",
   "@pika/pack": {
